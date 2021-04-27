@@ -1,4 +1,5 @@
 <img style = "margin-top: 40px;" align="right" width = "width" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+
 # Hi there  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 ### My name is Thiago, I am 17 years old and I live in São Paulo - SP 👋
