@@ -1,3 +1,4 @@
+<img style = "margin-top: 40px;" align="right" width = "width" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 ### Hi there 👋
 
 <!--
