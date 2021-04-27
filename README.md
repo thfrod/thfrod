@@ -29,7 +29,7 @@
 
 
 # Tools i am learning: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
-<code><img height ="50" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183723.svg
+<code><img height ="50" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183723.svg"></code>
 <code><img height ="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 
 
