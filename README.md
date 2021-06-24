@@ -2,7 +2,7 @@
 
 # Hello World, I am Thiago  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-### My name is Thiago, I am 17 years old and I am living in São Paulo - SP 👋
+### My name is Thiago, I am 17 years old and live in São Paulo - SP 👋
 
 - 💻 Web Developer
 - :mortar_board: System Analysis and Development Technician
