@@ -1,4 +1,4 @@
-<img style = "margin-top: 40px;" align="right" width = "width" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 # <a href="https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3">Hello World, I am Thiago  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
 
