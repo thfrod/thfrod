@@ -40,6 +40,18 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thfrod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thfrod&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>
+  
+
+
+<p align="center">
+  Number of visits to my profile since: 07/10/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/thfrod/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre 😄
+</p>
+  
+  
 <!--
 **thfrod/thfrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
