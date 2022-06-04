@@ -1,6 +1,6 @@
 <img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-# <a href="https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3">Hello World, I am Thiago  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"><a/>
+# <button href="https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3">Hello World, I am Thiago  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="35px" height="35" ><button/>
 
 ### My name is Thiago, I am 18 years old and live in São Paulo - SP 👋
 
@@ -14,7 +14,7 @@
 
 
 
-# Tools i know: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
+# Tools i know: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px" height="35">
 
 ### Languages and Tools
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -28,14 +28,14 @@
 
 
 
-# Tools i am learning: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
+# Tools i am learning: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px" height="35">
 <code><img height ="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height ="30" width="30" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height ="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 
 
-# My Stats
+# My Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px" height="35">
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thfrod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thfrod&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
