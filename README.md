@@ -10,7 +10,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thfrod)](https://github.com/thfrod)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3)](https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-ferreira-rodrigues-6753341b3)](https://www.linkedin.com/in/thfrod)
 
 
 
@@ -39,7 +39,8 @@
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thfrod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thfrod&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=thfrod&theme=tokyonight&hide_border=true" />
+<!-- <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=thfrod&theme=tokyonight&hide_border=true" /> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thfrod&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 </div><br>
   
 
