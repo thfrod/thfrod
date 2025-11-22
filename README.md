@@ -4,7 +4,7 @@
 
 ### My name is Thiago, I'm 22 years old and live in São Paulo - SP 👋
 
-- 💻 Web Developer
+- 💻 Web & Mobile Developer
 - :mortar_board: System Analysis and Development Technician
 - 😁 Come and get a little closer.
 
